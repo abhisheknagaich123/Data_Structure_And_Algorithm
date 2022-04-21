@@ -36,5 +36,7 @@ public class Binary_Search_Tree {
         insert(root,100);
         insert(root,05);
         insert(root,56);
+        insert(root,76);
+
     }
 }
