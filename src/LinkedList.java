@@ -1,5 +1,9 @@
-public class LinkedList {
+public class LinkedList<I extends Number> {
     static Node head;
+
+    public void add(I v2) {
+    }
+
     static class Node{
         int data;
         Node next;
